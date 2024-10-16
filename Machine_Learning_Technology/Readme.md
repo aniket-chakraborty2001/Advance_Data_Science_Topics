@@ -1,12 +1,17 @@
 <h1> Basics of Machine Learning </h1>
-<b>Machine learning</b> is a set of techniques to make computers better at doing things that humans traditionally can do better than machines. In other words, machine learning comes in hand in those cases, where humans outperform machines. For example, driving cars (tesla, uber are trying to focus on that matter, but not used in all vehicles), natural language conversation etc.
-Machine Learning (ML) is a branch of artificial intelligence (AI) that allows systems to learn from data, identify patterns, and make decisions with minimal human intervention. Instead of being explicitly programmed to perform tasks, ML algorithms use statistical techniques to improve their performance as they are exposed to more data.
+<b>Machine learning</b> is a set of techniques to make computers better at doing things that humans traditionally can do better than machines. In other words, machine learning comes in hand in those cases, where humans outperform machines. For example, driving cars (tesla, uber are trying to focus on that matter, but not used in all vehicles), natural language conversation etc.Machine Learning (ML) is a branch of artificial intelligence (AI) that allows systems to learn from data, identify patterns, and make decisions with minimal human intervention. Instead of being explicitly programmed to perform tasks, ML algorithms use statistical techniques to improve their performance as they are exposed to more data.
+<br>
 Key Concept: In ML, the system learns from training data, which contains input-output pairs. The algorithm then tries to generalize from the data to make accurate predictions or decisions on new, unseen data.
+<br>
 <b><u>Example of Machine Learning:</u></b>
 <u>Spam Email Detection:</u>
+<br>
 <b>Training Data:</b> A large set of emails labeled as either "spam" or "not spam."
+<br>
 <b>Algorithm:</b> A machine learning model (like a decision tree or neural network) is trained on these labeled examples. It learns patterns that distinguish spam emails from regular ones, such as specific keywords, sender information, or formatting.
+<br>
 <b>Prediction:</b> Once trained, the model can predict whether new, unseen emails are spam or not based on the patterns it learned during training. Over time, as it processes more emails and learns from its mistakes (incorrect classifications), the system can improve its accuracy.
+<br>
 <b><u>Types of Machine Learning:</u></b>
 <ol>
 <li>
@@ -21,17 +26,18 @@ Key Concept: In ML, the system learns from training data, which contains input-o
 </ol>
 <br>
 <h1>Comparison of ML techniques</h1>
+![Comparison of ML techniques](https://github.com/aniket-chakraborty2001/Advance_Data_Science_Topics/blob/main/Associated_Files/Comparison%20of%20ML.png)
 
-
-
-
-
-
-Real life application of ML
+<h1>Real life application of ML</h1>
+<br>
 Some real life applications of ML algorithm is given as - 
+<br>
 1.Email Spam Detection:
-Type of ML: Supervised Learning
-Explanation: The system is trained on labeled emails (spam vs. not spam) and learns to classify new emails as spam or not.
+<ul>
+<li>Type of ML: Supervised Learning</li>
+<li>Explanation: The system is trained on labeled emails (spam vs. not spam) and learns to classify new emails as spam or not.</li>
+</ul>
+<br>
 2.Customer Segmentation for Marketing:
 Type of ML: Unsupervised Learning
 Explanation: ML is used to segment customers into groups based on behavior or purchasing patterns, without any predefined labels.
